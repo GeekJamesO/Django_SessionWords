@@ -1,0 +1,45 @@
+.inputside{
+    background-color: lighttan;
+    display: inline-block;
+    width:46%;
+    vertical-align: top;
+}
+.output_side {
+    background-color: lighttan;
+    display: inline-block;
+    width:46%;
+    height:800px;
+    min-height: 200px;
+    display: inline-block;
+}
+.addToSession {
+    background-color: lightblue;
+    box-shadow: 5px 5px 1px #888888;
+    margin-left: 40%;
+}
+
+.clearSession {
+    background-color: pink;
+    box-shadow: 5px 5px 5px #888888;
+    margin-left: 40%;
+}
+.middle_bar
+{
+    border:3px, solid, black;
+    width:3%;
+    height:100%;
+    display: inline-block;
+}
+
+.Red {
+    color: red;
+}
+.Green {
+    color: green;
+}
+.Blue {
+    color: blue;
+}
+.bigFont {
+    font-size: larger;
+}
